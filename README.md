@@ -1,1 +1,1 @@
-# beecrowd_contest
+# beecrowd
